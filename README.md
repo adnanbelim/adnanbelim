@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanbelim&label=Profile%20views&color=0e75b6&style=flat" alt="adnanbelim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnanbelim" alt="adnanbelim" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adnanbelim](https://github.com/adnanbelim)
